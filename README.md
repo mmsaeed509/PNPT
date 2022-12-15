@@ -17,4 +17,6 @@
 
 #
 
+<img src="img/PNPT.jpg" alt="PNPT raodmap" align="center" >
+
 <!-- About -->
