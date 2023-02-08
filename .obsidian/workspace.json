@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "f0de1ddff319047b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e180cdb003ad54b1",
+        "type": "tabs",
+        "dimension": 51.77349097697574,
+        "children": [
+          {
+            "id": "afe28dad1a4fdae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_course/4 - Scanning & Enumeration/Researching Potential Vulnerabilities.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c7ae79841bdaec19",
+        "type": "tabs",
+        "dimension": 48.22650902302426,
+        "children": [
+          {
+            "id": "9535e96a40ff4ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_course/4 - Scanning & Enumeration/Researching Potential Vulnerabilities.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "712d7e70f369d8a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "03f2a107f75c4937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caa7ee3d58a0b331",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "441b9136923d5418",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fe452e979f0a76f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "cf237077a80ea925",
+    "type": "split",
+    "children": [
+      {
+        "id": "d984945b0eb2bb32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e5988ecfef0e683",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1_course/4 - Scanning & Enumeration/Researching Potential Vulnerabilities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3205b3b94f33ad17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1_course/4 - Scanning & Enumeration/Researching Potential Vulnerabilities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "815d183ad647e0e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "894cae93f6f9ef40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1_course/4 - Scanning & Enumeration/Researching Potential Vulnerabilities.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9535e96a40ff4ab0",
+  "lastOpenFiles": [
+    "1_course/4 - Scanning & Enumeration/Enumerating SSH.md",
+    "1_course/4 - Scanning & Enumeration/Researching Potential Vulnerabilities.md",
+    "1_course/4 - Scanning & Enumeration/README.md",
+    "1_course/4 - Scanning & Enumeration/Enumerating SMB.md",
+    "1_course/3 - Information Gathering (Reconnaissance)/README.md",
+    "1_course/4 - Scanning & Enumeration/img/auxiliary-scanner-smb.png",
+    "README.md",
+    "1_course/Information Gathering (Reconnaissance)/README.md"
+  ]
+}

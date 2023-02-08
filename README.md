@@ -20,3 +20,17 @@
 <img src="img/PNPT.jpg" alt="PNPT raodmap" align="center" >
 
 <!-- About -->
+
+<!-- VBox Guest Additions -->
+
+> **_Install VBox Guest Additions :_** 
+> 
+> **Recommend doing this, as its installs useful kernel modules for `drag & drop`, share the  `clipboard` between the host & guest OSs, etc...**
+[Download](https://download.virtualbox.org/virtualbox/)
+
+for [**`VBoxGuestAdditions 7.0.6`**](https://download.virtualbox.org/virtualbox/7.0.6/)
+
+![](/img/VBoxGuestAdditions.png)
+
+
+<!-- VBox Guest Additions -->
