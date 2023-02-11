@@ -7,20 +7,19 @@
  >  **_nikto :_**
  >  **a web server scanner**
  
-	- the usage: `nikto`  & `-<arg>` & `ip`
-	    - `nikto -h http://193.227.14.58`
-	
-	 - [output:](#nikto-output)
-	    - ![](img/nikto.png)
+- the usage: `nikto`  & `-<arg>` & `ip`
+	- `nikto -h http://193.227.14.58`
+	- [output:](#nikto-output)
+	- ![](img/nikto.png)
 
 - [**`dirbuster`**](https://sourceforge.net/projects/dirbuster/)
  >  **_dirbuster :_**
  >  **a multi threaded java application designed to brute force directories and files names on web/application servers.**
  
-	- the usage:
-		-  ![](img/dirbuster.png)
-	 - the output:
-		 - ![](img/dirbuster-out.png)
+- the usage:
+	-  ![](img/dirbuster.png)
+	- the output:
+	- ![](img/dirbuster-out.png)
 
 
 - [**`gobuster`**](https://github.com/OJ/gobuster)
