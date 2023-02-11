@@ -1,32 +1,37 @@
+### Scanning & Enumeration
+
 > **_NOTE:_**
-> **You have  [Kioptrix]([https://tcm-sec.com/kioptrix](https://tcm-sec.com/kioptrix)) **
+> **You have to download [**`Kioptrix`**](https://tcm-sec.com/kioptrix)**
 
-# Scanning & Enumeration
+<!-- nikto -->
 
-- [**`nikto`**](https://github.com/sullo/nikto)
+# [nikto](https://github.com/sullo/nikto)
  >  **_nikto :_**
  >  **a web server scanner**
  
 - the usage: `nikto`  & `-<arg>` & `ip`
-	- `nikto -h http://193.227.14.58`
-	- [output:](#nikto-output)
-	- ![](img/nikto.png)
+  - `nikto -h http://193.227.14.58`
+  - [output:](#nikto-output)
+  - ![](img/nikto.png)
 
-- [**`dirbuster`**](https://sourceforge.net/projects/dirbuster/)
+<!-- dirbuster -->
+
+# [dirbuster](https://sourceforge.net/projects/dirbuster/)
  >  **_dirbuster :_**
  >  **a multi threaded java application designed to brute force directories and files names on web/application servers.**
  
 - the usage:
-	-  ![](img/dirbuster.png)
-	- the output:
-	- ![](img/dirbuster-out.png)
+  - ![](img/dirbuster.png)
+  - the output:
+  - ![](img/dirbuster-out.png)
 
+<!-- gobuster -->
 
-- [**`gobuster`**](https://github.com/OJ/gobuster)
+# [gobuster](https://github.com/OJ/gobuster)
 > **_gobuster :_**
-> ** a tool used to brute-force URIs(directories and files), DNS subdomains, Virtual Host names on target web servers, -   Open Amazon S3 buckets, Open Google Cloud buckets and TFTP servers.**
+> **a tool used to brute-force URIs(directories and files), DNS subdomains, Virtual Host names on target web servers, -   Open Amazon S3 buckets, Open Google Cloud buckets and TFTP servers.**
 
-## nikto output
+### nikto output
 
 ```bash
 - Nikto v2.1.6
